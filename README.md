@@ -20,6 +20,11 @@
 - ☢ Machine Learning in all its mystery and confusion
 - 🖼️ UI/UX
 
+### Thinking about...
+- Collaborating
+- Another unpublished Indie game project
+- Current NZ IT Job market situation
+
 
 <!--
 **adrianlimws/adrianlimws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,17 @@
-### Hi there 👋
+## Greetings Stranger 👋
+
+### About This Guy
+Extra-Ordinary with a hint of sanity(or insanity). Quirky, spontaneous and witty. Up for a good laugh 24/7.
+Silent but always observing, listening & remembering. Always aiming to be early never trust being on time.
+Metronome-esque time management. Master of evidence hoarding. Professional cook in my own kitchen. Instant-texter. Absolute technological freak of nature (self-proclaimed in my spare time).
+Life experiences has taught me that I can't take life too seriously as I'll never get out alive.
+Ongoing pursue for a greater purpose both professionally and spiritually. 
+
+Currently swimming in... 
+- ⚠ Kotlin language and experimenting with Android Development in hopes to create an app that puts Dating apps payment schemes to shame.
+- ❇ SvelteKit in its awesomeness, React/Vue is OK 〽. 
+- ☢ Machine Learning in all its mystery and confusion
+
 
 <!--
 **adrianlimws/adrianlimws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

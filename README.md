@@ -18,6 +18,7 @@
 - ⚠ Kotlin language and experimenting with Android Development in hopes to create an app that puts Dating apps payment schemes to shame.
 - ❇ SvelteKit in its awesomeness, React/Vue is OK 〽. 
 - ☢ Machine Learning in all its mystery and confusion
+- 🖼️ UI/UX
 
 
 <!--

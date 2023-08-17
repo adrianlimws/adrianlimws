@@ -12,7 +12,12 @@
 - Instant-texter.
 - Absolute technological freak of nature (self-proclaimed in my spare time).
 - Life experiences has taught me that I can't take life too seriously as I'll never get out alive.
-- Ongoing pursue for a greater purpose both professionally and spiritually. 
+- Ongoing pursue for a greater purpose both professionally and spiritually.
+
+### Technical Aspirations
+- Be Language Agnostic (php, python, javascript, c#, kotlin, java, lua, sql) 
+- Be a programmer first, not a frameworker
+- Write a large scale app that can benefit others in someways
 
 ### Currently swimming in... 
 - ⚠ Kotlin language and experimenting with Android Development in hopes to create an app that puts Dating apps payment schemes to shame.

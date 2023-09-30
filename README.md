@@ -20,8 +20,8 @@
 - Write a large scale app that can benefit others in someways
 
 ### Currently swimming in... 
-- ⚠ Kotlin language and experimenting with Android Development in hopes to create an app that puts Dating apps payment schemes to shame.
-- ❇ SvelteKit in its awesomeness, React/Vue is OK 〽. 
+- ⚠ Arduino
+- ❇ SvelteKit in its awesomeness
 - ☢ Machine Learning in all its mystery and confusion
 - 🖼️ UI/UX
 

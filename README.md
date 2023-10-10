@@ -15,12 +15,12 @@
 - Ongoing pursue for a greater purpose both professionally and spiritually.
 
 ### Technical Aspirations
-- Be Language Agnostic (php, python, javascript, c#, kotlin, java, lua, sql) 
+- Be language agnostic by getting better with SWE Principles
 - Be a programmer first, not a frameworker
 - Write a large scale app that can benefit others in someways
 
 ### Currently swimming in... 
-- ⚠ Arduino
+- ⚠ ArcGIS
 - ❇ SvelteKit in its awesomeness
 - ☢ Machine Learning in all its mystery and confusion
 - 🖼️ UI/UX

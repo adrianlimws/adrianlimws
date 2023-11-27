@@ -20,10 +20,8 @@
 - Write a large scale app that can benefit others in someways
 
 ### Currently swimming in... 
-- ⚠ ArcGIS
-- ❇ SvelteKit in its awesomeness
-- ☢ Machine Learning in all its mystery and confusion
-- 🖼️ UI/UX
+- ⚠ C#
+- ❇ .NET Ecosystem
 
 ### Thinking about...
 - Collaborating

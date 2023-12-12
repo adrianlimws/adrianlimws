@@ -22,6 +22,7 @@
 ### Currently swimming in... 
 - ⚠ C#
 - ❇ .NET Ecosystem
+- Sveltekit 
 
 ### Thinking about...
 - Collaborating

@@ -8,11 +8,6 @@
 - ❇ .NET Ecosystem
 - Sveltekit 
 
-### Thinking about...
-- Collaborating
-- Another unpublished Indie game project
-- Current NZ IT Job market situation
-
 ### Side-Projects
 - [https://marsrovergallery.netlify.app](https://marsrovergallery.netlify.app)
 - [https://neoviewer.netlify.app/](https://neoviewer.netlify.app/)

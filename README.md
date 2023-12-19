@@ -14,8 +14,8 @@
 - Current NZ IT Job market situation
 
 ### Side-Projects
-[https://marsrovergallery.netlify.app](https://marsrovergallery.netlify.app)
-[https://neoviewer.netlify.app/](https://neoviewer.netlify.app/)
+-[https://marsrovergallery.netlify.app](https://marsrovergallery.netlify.app)
+-[https://neoviewer.netlify.app/](https://neoviewer.netlify.app/)
 
 <!--
 **adrianlimws/adrianlimws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

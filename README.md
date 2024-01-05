@@ -4,9 +4,9 @@
 - Write a large scale app that can benefit others in someways
 
 ### Currently swimming in... 
-- ⚠ C#
-- ❇ .NET Ecosystem
+- C#
 - Sveltekit 
+- OpenCV
 
 ### Side-Projects
 - [https://marsrovergallery.netlify.app](https://marsrovergallery.netlify.app)

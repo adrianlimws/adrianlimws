@@ -6,7 +6,6 @@
 ### Currently swimming in... 
 - C#
 - Sveltekit 
-- OpenCV
 
 ### Side-Projects
 - [https://marsrovergallery.netlify.app](https://marsrovergallery.netlify.app)

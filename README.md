@@ -4,8 +4,8 @@
 - Write a large scale app that can benefit others in someways
 
 ### Currently swimming in... 
-- C#
-- Sveltekit 
+- Java
+- React 
 
 ### Side-Projects
 - [https://marsrovergallery.netlify.app](https://marsrovergallery.netlify.app)

@@ -1,7 +1,7 @@
 ### Technical Aspirations
-- Be language agnostic by getting better with SWE Principles
+- Be language agnostic
 - Be an engineer, not a frameworker
-- Write a large scale app that can benefit others in someways
+- Write an app that can benefit others
 
 ### Currently swimming in... 
 - Java, Android

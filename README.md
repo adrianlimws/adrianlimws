@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![adrianlimws's Stats](https://github-readme-stats.vercel.app/api?username=adrianlimws&theme=vue&show_icons=true&hide_border=true&count_private=true)
-
 ![adrianlimws's Streak](https://github-readme-streak-stats.herokuapp.com/?user=adrianlimws&theme=vue&hide_border=true)
 
 ![adrianlimws's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianlimws&theme=vue&show_icons=true&hide_border=true&layout=compact)

@@ -15,6 +15,3 @@
 [LinkedIn](https://www.linkedin.com/in/adrianlws/) | [GMail](mailto:adrianlimws@gmail.com)
 
 ![adrianlimws's Streak](https://github-readme-streak-stats.herokuapp.com/?user=adrianlimws&theme=vue&hide_border=true)
-
-![adrianlimws's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianlimws&theme=vue&show_icons=true&hide_border=true&layout=compact)
-

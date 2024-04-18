@@ -4,8 +4,8 @@
 - Write a large scale app that can benefit others in someways
 
 ### Currently swimming in... 
-- Java
-- React 
+- Java, Android
+- React, Node
 
 ### Side-Projects
 - [https://marsrovergallery.netlify.app](https://marsrovergallery.netlify.app)
@@ -25,3 +25,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![adrianlimws's Stats](https://github-readme-stats.vercel.app/api?username=adrianlimws&theme=vue&show_icons=true&hide_border=true&count_private=true)
+
+![adrianlimws's Streak](https://github-readme-streak-stats.herokuapp.com/?user=adrianlimws&theme=vue&hide_border=true)
+
+![adrianlimws's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianlimws&theme=vue&show_icons=true&hide_border=true&layout=compact)
+
+### 📫 How to reach me
+[LinkedIn](https://www.linkedin.com/in/adrianlws/) | [GMail](mailto:adrianlimws@gmail.com)

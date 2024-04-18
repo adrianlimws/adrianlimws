@@ -6,6 +6,9 @@
 ### Currently swimming in... 
 - Java, Android
 - React, Node
+- ML/AI Modelling
+- UX/UI Principles
+- AWS Cloud Services
 
 ### Side-Projects
 - [https://marsrovergallery.netlify.app](https://marsrovergallery.netlify.app)

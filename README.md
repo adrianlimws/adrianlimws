@@ -10,10 +10,6 @@
 - UX/UI Principles
 - AWS Cloud Services
 
-### Side-Projects
-- [https://marsrovergallery.netlify.app](https://marsrovergallery.netlify.app)
-- [https://neoviewer.netlify.app/](https://neoviewer.netlify.app/)
-
 ### 📫 How to reach me
 [LinkedIn](https://www.linkedin.com/in/adrianlws/) | [GMail](mailto:adrianlimws@gmail.com)
 

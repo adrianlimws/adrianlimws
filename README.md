@@ -11,6 +11,6 @@
 - AWS Cloud Services
 
 ### 📫 How to reach me
-[LinkedIn](https://www.linkedin.com/in/adrianlws/) | [GMail](mailto:adrianlimws@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/adrianlws/)
 
 ![adrianlimws's Streak](https://github-readme-streak-stats.herokuapp.com/?user=adrianlimws&theme=vue&hide_border=true)

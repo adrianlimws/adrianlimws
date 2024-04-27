@@ -1,7 +1,7 @@
 ### Technical Aspirations
 - Be language agnostic
 - Be an engineer, not a frameworker
-- Write an app that can benefit others
+- Creating an app that can benefit others
 
 ### Currently swimming in... 
 - Java, Android

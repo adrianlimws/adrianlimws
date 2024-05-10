@@ -6,19 +6,19 @@
 
 <h2>A forever-learning software engineer👨‍💻 from New Zealand <br /> 🇳🇿 🇸🇬 🇺🇸 🇯🇵</h2>
 
-  <h2>🏋️ Technical Aspirations 🏃‍♂️</h2>
+  <h2>🏋Technical Aspirations</h2>
 
   <p>Be language agnostic </p>
   <p>Be an engineer, not a frameworker </p>
   <p>Creating apps that can benefit others </p>
 
-  <h2>🏊‍♂️ Currently swimming in 🛟</h2>
+  <h2>🏊‍♂Currently swimming in</h2>
   <p>Java, Android</p>
   <p>React, Node</p>
   <p>UX/UI Principles</p>
   <p>AWS Cloud Services</p>
 
-<h2>📫 How to reach me 💌</h2>
+<h2>How to reach me</h2>
 <a href="https://www.linkedin.com/in/adrianlws/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
@@ -30,21 +30,21 @@
 </a>
 
 
-<h2>🛠️ Tools used 🧰</h2>
+<h2>Tools used</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,githubactions,bitbucket,androidstudio,docker,aws,vite,visualstudio,xd,docker,dotnet,eclipse,heroku,idea,mongodb,netlify,nodejs,gradle,gulp,ai,ps,postman,supabase,cloudflare,codepen,figma,firebase,stackoverflow,ubuntu,unity,unreal,vercel,webpack" />
   </a>
 </p>
   
-<h2>🤟 Languages used 🧏‍♂️</h2>
+<h2>Languages used</h2>
 <p align="center">  
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sass,less,js,ts,cs,py,kotlin,php,java,mysql,sqlite,lua" />
   </a>
 </p>
 
-<h2>🏗️ Library/Frameworks/CMS used 🏗️</h2>
+<h2>Library/Frameworks/CMS used</h2>
 <p align="center">  
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,vue,angular,svelte,astro,bootstrap,tailwind,threejs,nextjs,wordpress,laravel,django,dotnet,jest,jquery,htmx," />

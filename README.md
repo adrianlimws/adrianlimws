@@ -40,7 +40,7 @@
 <h2>Languages used</h2>
 <p align="center">  
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,less,js,ts,cs,py,kotlin,php,java,mysql,sqlite,lua" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,kotlin,cs,py,mysql,sqlite,sass,less,lua" />
   </a>
 </p>
 

@@ -47,7 +47,7 @@
 <h2>Library/Frameworks/CMS used</h2>
 <p align="center">  
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue,angular,svelte,astro,bootstrap,tailwind,threejs,nextjs,wordpress,laravel,django,dotnet,jest,jquery,htmx," />
+    <img src="https://skillicons.dev/icons?i=react,vue,angular,svelte,astro,bootstrap,tailwind,threejs,nextjs,wordpress,laravel,django,dotnet,jest,jquery" />
   </a>
 </p>
 

@@ -6,13 +6,13 @@
 
 <h2>A forever-learning software engineer👨‍💻 from New Zealand <br /> 🇳🇿 🇸🇬 🇺🇸 🇯🇵</h2>
 
-  <h2>🏋Technical Aspirations</h2>
+  <h2>Technical Aspirations</h2>
 
   <p>Be language agnostic </p>
   <p>Be an engineer, not a frameworker </p>
   <p>Creating apps that can benefit others </p>
 
-  <h2>🏊‍♂Currently swimming in</h2>
+  <h2>Currently swimming in</h2>
   <p>Java, Android</p>
   <p>React, Node</p>
   <p>UX/UI Principles</p>

@@ -21,18 +21,6 @@
   <p>UX/UI Principles</p>
   <p>AWS Cloud Services</p>
 
-<h2>How to reach me</h2>
-<a href="https://www.linkedin.com/in/adrianlws/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="mailto:adrianlimws@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-<a href="https://discord.gg/VPsqDYQuAR" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" />
-</a>
-
-
 <h2>Tools used</h2>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -55,6 +43,17 @@
 </p>
 
   ![adrianlimws's Streak](https://github-readme-streak-stats.herokuapp.com/?user=adrianlimws&theme=vue&hide_border=true)
+
+<h2>How to reach me</h2>
+<a href="https://www.linkedin.com/in/adrianlws/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:adrianlimws@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+<a href="https://discord.gg/VPsqDYQuAR" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" />
+</a>
 
 </div>
 

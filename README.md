@@ -6,7 +6,7 @@
 
 <h2>A forever-learning software engineer👨‍💻 <br /> 🇳🇿 🇸🇬 🇺🇸 🇯🇵</h2>
 
-<blockquote>I am intrigued by how things work behind the monitor. <br /> Am Always trying to break things and glue them back again.<br /> 
+<blockquote>I am intrigued by how things work behind the monitor. <br /> Am always trying to break things and glue them back again.<br /> 
   I believe in creating mistakes and failures to truly learn what's right and successful.</blockquote>
 
   <h2>Technical Aspirations</h2>

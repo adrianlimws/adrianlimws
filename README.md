@@ -24,7 +24,7 @@
 <h2>Tools used</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,githubactions,bitbucket,androidstudio,docker,aws,vite,visualstudio,xd,docker,dotnet,eclipse,idea,netlify,nodejs,gradle,ai,ps,postman,supabase,cloudflare,codepen,figma,firebase,stackoverflow,ubuntu,unity,unreal,vercel,webpack" />
+    <img src="https://skillicons.dev/icons?i=git,githubactions,bitbucket,androidstudio,docker,aws,vite,visualstudio,xd,docker,eclipse,idea,netlify,nodejs,gradle,ai,ps,postman,supabase,cloudflare,codepen,figma,firebase,stackoverflow,ubuntu,unity,unreal,vercel,webpack" />
   </a>
 </p>
   

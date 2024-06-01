@@ -21,10 +21,10 @@
   <p>UX/UI Principles</p>
   <p>AWS Cloud Services</p>
 
-<h2>Tools used</h2>
+<h2>Commonly used Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,githubactions,bitbucket,androidstudio,docker,aws,vite,visualstudio,xd,docker,eclipse,idea,netlify,nodejs,gradle,ai,ps,postman,supabase,cloudflare,codepen,figma,firebase,stackoverflow,ubuntu,unity,unreal,vercel,webpack" />
+    <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,netlify,nodejs" />
   </a>
 </p>
   
@@ -38,7 +38,7 @@
 <h2>Library/Frameworks/CMS used</h2>
 <p align="center">  
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue,angular,svelte,astro,bootstrap,tailwind,threejs,nextjs,wordpress,laravel,django,dotnet,jest,jquery" />
+    <img src="https://skillicons.dev/icons?i=react,svelte,bootstrap,tailwind,threejs,wordpress,django,dotnet,jest,jquery" />
   </a>
 </p>
 

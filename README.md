@@ -24,7 +24,7 @@
 <h2>Commonly used Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,netlify,nodejs" />
+    <img alt="git, visualstudio, vs code, netlify, nodejs" src="https://skillicons.dev/icons?i=git,visualstudio,vscode,netlify,nodejs,npm" />
   </a>
 </p>
   

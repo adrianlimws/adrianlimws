@@ -16,31 +16,7 @@
   <p>Creating apps that can benefit others </p>
 
   <h2>Currently swimming in</h2>
-  <p>Java, Android</p>
-  <p>React, Node</p>
-  <p>UX/UI Principles</p>
-  <p>AWS Cloud Services</p>
-
-<h2>Commonly used Tools</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img alt="git, visualstudio, vs code, netlify, nodejs" src="https://skillicons.dev/icons?i=git,visualstudio,vscode,netlify,nodejs,npm" />
-  </a>
-</p>
-  
-<h2>Languages used</h2>
-<p align="center">  
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,kotlin,cs,py,mysql,sqlite,sass,less,lua" />
-  </a>
-</p>
-
-<h2>Library/Frameworks/CMS used</h2>
-<p align="center">  
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,svelte,bootstrap,tailwind,threejs,wordpress,django,dotnet,jest,jquery" />
-  </a>
-</p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" />
 
   ![adrianlimws's Streak](https://github-readme-streak-stats.herokuapp.com/?user=adrianlimws&theme=vue&hide_border=true)
 

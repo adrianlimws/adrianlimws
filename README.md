@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&weight=600&size=24&pause=1000&center=true&random=false&width=435&lines=Kia+Ora!+My+name+is+Adrian+%3AD" alt="Typing SVG" /></a>
 </h1>
 
-<h2>A forever-learning software engineer👨‍💻 <br /> 🇳🇿 🇸🇬 🇺🇸 🇯🇵</h2>
+<h2>A forever-learning software developer👨‍💻 <br /> 🇳🇿 🇸🇬 🇺🇸 🇯🇵</h2>
 
 <blockquote>
   I believe in creating mistakes and failures to truly learn what's right and successful.</blockquote>

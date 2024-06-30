@@ -23,9 +23,6 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianlimws&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>How to reach me</h2>
-<a href="mailto:adrianlimws@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
 <a href="https://discord.gg/VPsqDYQuAR" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" />
 </a>

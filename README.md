@@ -16,7 +16,7 @@
   <p>Creating apps that can benefit others </p>
 
   <h2>Currently swimming in</h2>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,vue,postgres,supabase,nuxtjs,netlify" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,vue,postgres,supabase,nuxtjs,netlify" />
 
   ![adrianlimws's Streak](https://github-readme-streak-stats.herokuapp.com/?user=adrianlimws&theme=vue&hide_border=true)
 <br />

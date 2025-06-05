@@ -21,11 +21,5 @@
   ![adrianlimws's Streak](https://github-readme-streak-stats.herokuapp.com/?user=adrianlimws&theme=vue&hide_border=true)
 <br />
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianlimws&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<h2>How to reach me</h2>
-<a href="https://discord.gg/VPsqDYQuAR" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" />
-</a>
-
 </div>
 

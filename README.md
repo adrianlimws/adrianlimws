@@ -15,7 +15,7 @@
   <p>Be an engineer, not a frameworker </p>
   <p>Creating apps that can benefit others </p>
 
-  <h2>Currently swimming in</h2>
+  <h2>I love drowning in</h2>
   <img src="https://skillicons.dev/icons?i=php,laravel,vue,tailwind,nuxt,svelte,angular,react,dotnet,cs,python,kotlin,java,css,html,supabase,cloudflare,aws,androidstudio,godot,threejs,django,vite,git,postgres,mysql,sqlite,astro,netlify,docker,powershell,pnpm,postman,ps,nodejs,electron,bootstrap,aiscript" />
 
   ![adrianlimws's Streak](https://github-readme-streak-stats.herokuapp.com/?user=adrianlimws&theme=vue&hide_border=true)

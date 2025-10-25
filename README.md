@@ -16,7 +16,7 @@
   <p>Creating apps that can benefit others </p>
 
   <h2>I love drowning in</h2>
-  <img src="https://skillicons.dev/icons?i=php,laravel,vue,tailwind,nuxt,svelte,angular,react,dotnet,cs,python,kotlin,java,css,html,supabase,cloudflare,aws,androidstudio,godot,threejs,django,vite,git,postgres,mysql,sqlite,astro,netlify,docker,powershell,pnpm,postman,ps,nodejs,electron,bootstrap,aiscript" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,vue,tailwind,css,html,javascript,vite,git,postgres,mysql,sqlite,astro,netlify,nodejs" />
 
   ![adrianlimws's Streak](https://github-readme-streak-stats.herokuapp.com/?user=adrianlimws&theme=vue&hide_border=true)
 <br />
